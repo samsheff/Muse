@@ -1,0 +1,8 @@
+# Mac Artifacts
+.DS_Store
+
+# Vim Artifacts
+*.swp
+*.swo
+
+
